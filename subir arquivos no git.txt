@@ -1,0 +1,5 @@
+$ git init
+$ git status
+$ git add .
+$ git commit -m "<descricao_commit>"
+$ git push origin <branch>
